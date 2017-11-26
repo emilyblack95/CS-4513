@@ -15,7 +15,7 @@ import au.com.bytecode.opencsv.CSVWriter;
  * @author: Emily Black
  * @date: 11/13/17
  */
-public class IP_JAVA_BLACK_EMILY {
+public class JDBC_INDEX {
     public static void main(String[] args) throws SQLException {
     	
     	// Step 1. Load a database driver:
